@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hacktober-2023 </h1>
+<h1> Hacktober-2024 </h1>
 🚀 This repository is for collecting the different projects made by people who wants to contribute in open source.
 
 <br/>
