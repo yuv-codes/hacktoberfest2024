@@ -119,10 +119,10 @@ We're happy to merge valid pull requests to this repository !
 To get approval of the pull request much quicker (`Follow Me`)🚀
 '''
 ```
-<a align="center" href="https://www.linkedin.com/in/yuvrajsingh2805/"><kbd><img src="https://avatars.githubusercontent.com/u/85815858?v=4" width="100px;" alt=""/></kbd><br/><sub><b>Yuvraj Singh</b></sub></a><br />
+<a align="center" href="https://www.linkedin.com/in/yuvrajsingh2805/"><kbd><img src="https://avatars.githubusercontent.com/u/146652142?s=96&v=4" width="100px;" alt=""/></kbd><br/><sub><b>Yuvraj Singh</b></sub></a><br />
 
 `For doubts contact yuvrajsingh.saps@gmail.com`
 ### Happy coding fellas!!💕✨
 ## Contributors to this Repository
 
-<a href="https://github.com/yuv-codes" target="_blank"><img src="https://avatars.githubusercontent.com/u/85815858?v=4" alt="yuv-codes" style="border-radius: 50%; width: 50px; height: 50px;"></a>
+<a href="https://github.com/yuv-codes" target="_blank"><img src="https://avatars.githubusercontent.com/u/146652142?s=96&v=4" alt="yuv-codes" style="border-radius: 50%; width: 50px; height: 50px;"></a>
